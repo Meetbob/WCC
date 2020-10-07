@@ -22,7 +22,7 @@ All illegal actions lie with you.
   sudo apt install git 
   
   sudo pkg install python
-  
+ 
   sudo python3 -m pip install --upgrade pip
   
   
