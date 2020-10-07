@@ -5,14 +5,24 @@ All illegal actions lie with you.
 # How to install W.C.C
  # In Termux 
  apt update
+ 
  apt upgrade
+ 
  apt install git 
+ 
  pkg install python
+ 
  python3 -m pip install --upgrade pip
+ 
   # In Linux 
   sudo apt update
+  
   sudo apt upgrade
+  
   sudo apt install git 
+  
   sudo pkg install python
+  
   sudo python3 -m pip install --upgrade pip
+  
   
