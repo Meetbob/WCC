@@ -13,6 +13,8 @@ All illegal actions lie with you.
  
  python3 -m pip install --upgrade pip
  
+  python3 Beta\ WCC\ 1.0\ .py  
+ 
   # In Linux 
   sudo apt update
   
@@ -23,5 +25,8 @@ All illegal actions lie with you.
   sudo pkg install python
  
   sudo python3 -m pip install --upgrade pip
+  
+  python3 Beta\ WCC\ 1.0\ .py  
+  
   
   
